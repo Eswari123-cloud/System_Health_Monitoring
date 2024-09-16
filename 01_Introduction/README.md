@@ -18,22 +18,22 @@ This project monitors server health, visualizes metrics, and sends notifications
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
    
-**Install Dependencies**
-pip install -r requirements.txt
+2. **Install Dependencies**
+   pip install -r requirements.txt
 
-**Set Up the Database**
-from database.db_utils import create_table_if_not_exists
+3. **Set Up the Database**
+   from database.db_utils import create_table_if_not_exists
 
-db_filename = 'servers.db'
-create_table_if_not_exists(db_filename)
+   db_filename = 'servers.db'
+   create_table_if_not_exists(db_filename)
 
-**Import Server Data**
-Prepare a CSV file named servers.csv with columns hostname and ip.
-Import data into the database
-from database.db_utils import insert_servers_from_csv
+4. **Import Server Data**
+   Prepare a CSV file named servers.csv with columns hostname and ip.
+   Import data into the database
+   from database.db_utils import insert_servers_from_csv
 
-csv_filename = 'servers.csv'
-insert_servers_from_csv(csv_filename, db_filename)
+   csv_filename = 'servers.csv'
+   insert_servers_from_csv(csv_filename, db_filename)
 
 ### Running the Application
 **Start the Web Dashboard**
