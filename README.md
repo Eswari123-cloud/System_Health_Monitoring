@@ -38,7 +38,7 @@ This project monitors server health, visualizes metrics, and sends notifications
    csv_filename = 'servers.csv'
    insert_servers_from_csv(csv_filename, db_filename)
 
-### Running the Application
+## Running the Application
 **Start the Web Dashboard**
 
 **To run the web application and view the dashboard**:
