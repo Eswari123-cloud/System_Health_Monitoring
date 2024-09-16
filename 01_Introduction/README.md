@@ -3,6 +3,7 @@
 System Health Monitoring is a Python-based application designed to track and visualize the performance and health of servers. The project includes functionalities for database management, data import, real-time visualizations, and notifications. It features a web dashboard built with Dash for interactive monitoring of server metrics.
 
 **Features**
+
 **Database Management**: Create and manage a SQLite database for storing server details.
 **Data Import**: Import server information from CSV files into the database.
 **Sample Data Generation**: Generate synthetic data for testing and visualization.
