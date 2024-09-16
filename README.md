@@ -61,13 +61,13 @@ This project monitors server health, visualizes metrics, and sends notifications
 - **database/db_utils.py:** Functions for database operations.
 
     - **create_table_if_not_exists(db_filename):** Creates the servers table.
-insert_servers_from_csv(csv_filename, db_filename): Imports server data from a CSV file.
-utils/data.py: Generates sample data for testing.
+    - **insert_servers_from_csv(csv_filename, db_filename):** Imports server data from a CSV file.
+- **utils/data.py:** Generates sample data for testing.
 
-generate_sample_data(server_name): Creates synthetic data for a given server.
-app.py: Initializes the Dash web application and handles interactive visualizations.
+     - **generate_sample_data(server_name):** Creates synthetic data for a given server.
+- **app.py:** Initializes the Dash web application and handles interactive visualizations.
 
-plot/figures.py: Contains functions for generating charts and graphs.
+- **plot/figures.py:** Contains functions for generating charts and graphs.
 
 Contributing
 Fork the repository.
