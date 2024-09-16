@@ -46,16 +46,15 @@ python app.py
 Access the dashboard at http://localhost:8050
 
 ### Features
-**Real-Time Monitoring**
-  ```bash
+## Real-Time Monitoring
   View CPU, memory, and disk usage metrics.
-**Visualizations**
+## Visualizations
   Interactive graphs for server performance.
-**Anomaly Detection**
+## Anomaly Detection
   Detect and highlight anomalies in system metrics.
-**Notifications**
+## Notifications
   Send alerts via email and Microsoft Teams.
-**Automatic Cleanup**
+## Automatic Cleanup
   Perform disk cleanup if usage exceeds a threshold.
 
 ### Code Overview
