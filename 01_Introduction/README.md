@@ -57,7 +57,7 @@ Access the dashboard at http://localhost:8050
 ## Automatic Cleanup
   Perform disk cleanup if usage exceeds a threshold.
 
-### Code Overview
+# Code Overview
 database/db_utils.py: Functions for database operations.
 
 create_table_if_not_exists(db_filename): Creates the servers table.
