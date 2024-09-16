@@ -46,11 +46,16 @@ python app.py
 Access the dashboard at http://localhost:8050
 
 ### Features
-**Real-Time Monitoring**: View CPU, memory, and disk usage metrics.
-**Visualizations**: Interactive graphs for server performance.
-**Anomaly Detection**: Detect and highlight anomalies in system metrics.
-**Notifications**: Send alerts via email and Microsoft Teams.
-**Automatic Cleanup**: Perform disk cleanup if usage exceeds a threshold.
+**Real-Time Monitoring**
+  View CPU, memory, and disk usage metrics.
+**Visualizations**
+  Interactive graphs for server performance.
+**Anomaly Detection**
+  Detect and highlight anomalies in system metrics.
+**Notifications**
+  Send alerts via email and Microsoft Teams.
+**Automatic Cleanup**
+  Perform disk cleanup if usage exceeds a threshold.
 
 ### Code Overview
 database/db_utils.py: Functions for database operations.
