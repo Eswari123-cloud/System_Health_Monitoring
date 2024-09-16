@@ -19,7 +19,7 @@ This project monitors server health, visualizes metrics, and sends notifications
    cd your-repo-name
    
 2. **Install Dependencies**
-   '''bash
+   ```bash
    pip install -r requirements.txt
 
 4. **Set Up the Database**
