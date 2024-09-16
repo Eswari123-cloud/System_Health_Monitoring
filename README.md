@@ -43,8 +43,7 @@ This project monitors server health, visualizes metrics, and sends notifications
 
 **To run the web application and view the dashboard**:
  - python app.py
- - Access the dashboard at http://localhost:8050
-
+ - Access the dashboard at http://127.0.0.1:8050/
 ## Features
 1. **Real-Time Monitoring**
   - View CPU, memory, and disk usage metrics.
