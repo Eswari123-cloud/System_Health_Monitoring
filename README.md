@@ -69,7 +69,7 @@ This project monitors server health, visualizes metrics, and sends notifications
 
 - **plot/figures.py:** Contains functions for generating charts and graphs.
 
-# Contributing
+## Contributing
 1. **Fork the repository.**
 2. **Create a new branch:** git checkout -b feature-branch.
 3. **Make your changes.**
