@@ -84,10 +84,10 @@ MIT License - see the LICENSE file for details.
 
 ## Contact
 
-For questions, open an issue on GitHub or email kala.sankari199@gmail.com.
+### For questions, open an issue on GitHub or email kala.sankari199@gmail.com.
 ---
 
-Made with passion and code by [**Sivasankara Eswari Mahalingam**](https://github.com/Eswari123-cloud).
+## Made with passion and code by [**Sivasankara Eswari Mahalingam**](https://github.com/Eswari123-cloud).
 
 🚀 Happy Coding! 🚀
 
