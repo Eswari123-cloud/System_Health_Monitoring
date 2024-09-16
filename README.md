@@ -69,12 +69,15 @@ This project monitors server health, visualizes metrics, and sends notifications
 
 - **plot/figures.py:** Contains functions for generating charts and graphs.
 
-Contributing
-Fork the repository.
-Create a new branch: git checkout -b feature-branch.
-Make your changes.
-Commit and push: git commit -am 'Add new feature', git push origin feature-branch.
-Open a Pull Request.
+# Contributing
+1. **Fork the repository.**
+2. **Create a new branch:** git checkout -b feature-branch.
+3. **Make your changes.**
+4. **Commit and push:**
+   ```bash
+   git commit -am 'Add new feature'
+   git push origin feature-branch.
+5. **Open a Pull Request.**
 ### License
 MIT License - see the LICENSE file for details.
 
