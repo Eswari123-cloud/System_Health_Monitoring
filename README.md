@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Contact
 
-### For questions, open an issue on GitHub or email kala.sankari199@gmail.com.
+### For questions, open an issue on GitHub or email smsivasankaraeswari@outlook.com
 ---
 
 ## Made with passion and code by [⭐ Sivasankara Eswari Mahalingam ⭐ ](https://github.com/Eswari123-cloud)
