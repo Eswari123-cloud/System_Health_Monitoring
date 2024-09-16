@@ -47,7 +47,7 @@ Access the dashboard at http://localhost:8050
 
 # Features
 1. **Real-Time Monitoring**
-     View CPU, memory, and disk usage metrics.
+     - View CPU, memory, and disk usage metrics.
 ## Visualizations
   Interactive graphs for server performance.
 ## Anomaly Detection
