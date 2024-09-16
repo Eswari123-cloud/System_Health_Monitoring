@@ -19,15 +19,16 @@ This project monitors server health, visualizes metrics, and sends notifications
    cd your-repo-name
    
 2. **Install Dependencies**
+   '''bash
    pip install -r requirements.txt
 
-3. **Set Up the Database**
+4. **Set Up the Database**
    from database.db_utils import create_table_if_not_exists
 
    db_filename = 'servers.db'
    create_table_if_not_exists(db_filename)
 
-4. **Import Server Data**
+5. **Import Server Data**
    Prepare a CSV file named servers.csv with columns hostname and ip.
    Import data into the database
    from database.db_utils import insert_servers_from_csv
