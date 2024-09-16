@@ -58,9 +58,9 @@ This project monitors server health, visualizes metrics, and sends notifications
   - Perform disk cleanup if usage exceeds a threshold.
 
 ## Code Overview
-- **database/db_utils.py**: Functions for database operations.
+- **database/db_utils.py:** Functions for database operations.
 
-create_table_if_not_exists(db_filename): Creates the servers table.
+    - **create_table_if_not_exists(db_filename):** Creates the servers table.
 insert_servers_from_csv(csv_filename, db_filename): Imports server data from a CSV file.
 utils/data.py: Generates sample data for testing.
 
