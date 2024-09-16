@@ -56,6 +56,8 @@ This project monitors server health, visualizes metrics, and sends notifications
   - Send alerts via email and Microsoft Teams.
 5. **Automatic Cleanup**
   - Perform disk cleanup if usage exceeds a threshold.
+6. **Dashboard**
+  - Comprehensive web-based interface for monitoring and visualizing server health.
 
 ## Code Overview
 - **database/db_utils.py:** Functions for database operations.
