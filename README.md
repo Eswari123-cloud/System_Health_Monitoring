@@ -78,9 +78,11 @@ This project monitors server health, visualizes metrics, and sends notifications
    git commit -am 'Add new feature'
    git push origin feature-branch.
 5. **Open a Pull Request.**
-### License
+## License
+
 MIT License - see the LICENSE file for details.
 
-### Contact
+## Contact
+
 For questions, open an issue on GitHub or email your-email@example.com.
 
