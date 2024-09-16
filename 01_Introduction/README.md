@@ -30,6 +30,7 @@ This project monitors server health, visualizes metrics, and sends notifications
    create_table_if_not_exists(db_filename)
 
 6. **Import Server Data**
+   ```python
    Prepare a CSV file named servers.csv with columns hostname and ip.
    Import data into the database
    from database.db_utils import insert_servers_from_csv
