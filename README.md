@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 ### For questions, open an issue on GitHub or email kala.sankari199@gmail.com.
 ---
 
-## Made with passion and code by [**Sivasankara Eswari Mahalingam**](https://github.com/Eswari123-cloud).
+## Made with passion and code by [**Sivasankara Eswari Mahalingam ⭐ **](https://github.com/Eswari123-cloud).
 
 Coding is my passion. Your feedback is always welcome. ✨
 
