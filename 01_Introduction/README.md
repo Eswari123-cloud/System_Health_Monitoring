@@ -47,6 +47,7 @@ Access the dashboard at http://localhost:8050
 
 ### Features
 **Real-Time Monitoring**
+  ```bash
   View CPU, memory, and disk usage metrics.
 **Visualizations**
   Interactive graphs for server performance.
