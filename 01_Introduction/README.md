@@ -19,7 +19,8 @@ This project monitors server health, visualizes metrics, and sends notifications
    cd your-repo-name
    
 **Install Dependencies**
-pip install -r requirements.txt
+'''bash
+   pip install -r requirements.txt
 
 **Set Up the Database**
 from database.db_utils import create_table_if_not_exists
