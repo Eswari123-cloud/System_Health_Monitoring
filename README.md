@@ -84,5 +84,5 @@ MIT License - see the LICENSE file for details.
 
 ## Contact
 
-For questions, open an issue on GitHub or email your-email@example.com.
+For questions, open an issue on GitHub or email kala.sankari199@gmail.com.
 
