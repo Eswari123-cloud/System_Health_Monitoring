@@ -41,7 +41,7 @@ This project monitors server health, visualizes metrics, and sends notifications
 ### Running the Application
 **Start the Web Dashboard**
 
-**To run the web application and view the dashboard**:
+##**To run the web application and view the dashboard**:
 python app.py
 Access the dashboard at http://localhost:8050
 
