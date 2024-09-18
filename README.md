@@ -16,7 +16,7 @@ This project monitors server health, visualizes metrics, and sends notifications
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Eswari123-cloud/system_health_monitoring
-   cd your-repo-name
+   cd system_health_monitoring
    
 2. **Install Dependencies**
    ```bash
